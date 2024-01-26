@@ -26,7 +26,7 @@ This project is a simple backend that demonstrates creating RESTful API endpoint
 
     bash
 
--   `git clone [https://github.com/amy324/RESTful-API-Demo-Golang]`
+-   `git clone https://github.com/amy324/RESTful-API-Demo-Golang`
 
     -   Navigate to the project directory:
 
