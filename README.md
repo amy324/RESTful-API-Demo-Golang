@@ -26,13 +26,13 @@ This project is a simple backend that demonstrates creating RESTful API endpoint
 
     bash
 
--   `git clone https://github.com/your-username/your-repo.git`
+-   `git clone [https://github.com/amy324/RESTful-API-Demo-Golang]`
 
     -   Navigate to the project directory:
 
     bash
 
-    -   `cd your-repo`
+    -   `cd RESTful-API-Demo-Golang`
 
     -   Run the project:
 
